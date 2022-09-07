@@ -5,7 +5,7 @@ Swimming competitively is not just done individually, relays are often apart of 
 # Warning
 ---
  #### Head and cervical injuries can result from improper diving, use caution.
-![Head](Head.JPEG)
+![Head](Head.JPG)
  
 # Items
 -----
@@ -41,4 +41,6 @@ Swimming competitively is not just done individually, relays are often apart of 
 #### 9. Press arms out in front of you, squeezing your head between biceps so you're in a streamline
 - Should almost look like a pencil
 - Be ready to hit the water and start your race
+
+
 ![Streamline](Streamline.jpg)
