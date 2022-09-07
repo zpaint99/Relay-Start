@@ -5,7 +5,7 @@ Swimming competitively is not just done individually, relays are often apart of 
 # Warning
 ---
  #### Head and cervical injuries can result from improper diving, use caution.
-![Head](Head.jpeg)
+![Head](Head.JPEG)
  
 # Items
 -----
@@ -30,7 +30,7 @@ Swimming competitively is not just done individually, relays are often apart of 
 ![triangle](Triangle.jpg)
 
 #### 6. When swimmer enters triangle, throw your arms backwards in a circle 
-![arms](Arms.jpg)
+![arms](Arms.JPG)
 
 #### 7. As your arms come down behind your back, take a step forward with left foot
 - Make sure your step comes near the front of the block
